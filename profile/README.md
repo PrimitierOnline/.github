@@ -1,6 +1,10 @@
 ## We are Primiter Online
-Join our Discord server!  
+We create and operate PrimitierOnlineMod, a mod that adds multiplayer functionality to Primitier.
+
+### Discord
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/2ewyM6jAxy)
+<br />
+Join our Discord server!
 
 ### Member
 <a href="https://github.com/YutoMaeda1209">
@@ -19,6 +23,3 @@ Join our Discord server!
 ![](https://skillicons.dev/icons?i=html,css,js)
 #### OS
 ![](https://skillicons.dev/icons?i=apple,windows)
-
-
-
