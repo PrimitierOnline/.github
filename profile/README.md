@@ -1,5 +1,5 @@
 ## We are Primiter Online
-Join our Discord server!
+Join our Discord server!  
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/2ewyM6jAxy)
 
 ### Member
